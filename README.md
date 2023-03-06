@@ -1,5 +1,5 @@
 # TVI_assessment
-This is a repository to remporarily house submission for the Tissue Vision internship assessment.
+This is a repository to temporarily house submission for the Tissue Vision internship assessment.
 
 The code in this repository was written in Python3, and a pre-requisite for running this code is to have the [latest version of Python3 installed](https://www.python.org/downloads/) on your computer system. The following libraries were used:
 1. `PIL`
